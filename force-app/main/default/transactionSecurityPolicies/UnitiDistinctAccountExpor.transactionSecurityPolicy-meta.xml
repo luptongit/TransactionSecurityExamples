@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <action>
+        <block>true</block>
+        <endSession>false</endSession>
+        <freezeUser>false</freezeUser>
+        <notifications>
+            <inApp>true</inApp>
+            <sendEmail>true</sendEmail>
+            <user>jlupton-xpnc@force.com</user>
+        </notifications>
+        <twoFactorAuthentication>false</twoFactorAuthentication>
+    </action>
+    <active>false</active>
+    <apexClass>SecurityRuleAccountDistinctCount</apexClass>
+    <description>Uniti - Distinct Account Export Limit</description>
+    <developerName>UnitiDistinctAccountExpor</developerName>
+    <eventName>ReportEvent</eventName>
+    <masterLabel>Uniti Distinct Account Export Limit</masterLabel>
+    <type>CustomApexPolicy</type>
+</TransactionSecurityPolicy>
