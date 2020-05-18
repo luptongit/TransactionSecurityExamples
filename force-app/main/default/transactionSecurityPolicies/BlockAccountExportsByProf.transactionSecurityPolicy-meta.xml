@@ -11,10 +11,10 @@
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
-    <active>false</active>
-    <developerName>UnitiBlockExportof20ormor</developerName>
+    <active>true</active>
+    <apexClass>SecurityRuleAccountExports</apexClass>
+    <developerName>BlockAccountExportsByProf</developerName>
     <eventName>ReportEvent</eventName>
-    <flow>PolicyCondition_YYomiJJIvEmySPLJTlRq</flow>
-    <masterLabel>Uniti Block Export of 20 or more Accounts</masterLabel>
-    <type>CustomConditionBuilderPolicy</type>
+    <masterLabel>Block Account Exports By Profile</masterLabel>
+    <type>CustomApexPolicy</type>
 </TransactionSecurityPolicy>

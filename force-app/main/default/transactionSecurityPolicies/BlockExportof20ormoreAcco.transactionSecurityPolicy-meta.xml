@@ -11,10 +11,10 @@
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
-    <active>true</active>
-    <developerName>UnitiBlockContactExportsG</developerName>
+    <active>false</active>
+    <developerName>BlockExportof20ormoreAcco</developerName>
     <eventName>ReportEvent</eventName>
-    <flow>PolicyCondition_LLYLivaocPtGhaswNuXP</flow>
-    <masterLabel>Uniti Block Contact Exports Greater Than 100</masterLabel>
+    <flow>PolicyCondition_EiaIcFWmZrGGFgwnSmMh</flow>
+    <masterLabel>Block Export of 20 or more Accounts</masterLabel>
     <type>CustomConditionBuilderPolicy</type>
 </TransactionSecurityPolicy>

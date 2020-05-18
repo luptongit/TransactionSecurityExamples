@@ -11,11 +11,10 @@
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
-    <active>false</active>
-    <apexClass>SecurityRuleAccountDistinctCount</apexClass>
-    <description>Uniti - Distinct Account Export Limit</description>
-    <developerName>UnitiDistinctAccountExpor</developerName>
+    <active>true</active>
+    <developerName>BlockContactExportsGreate</developerName>
     <eventName>ReportEvent</eventName>
-    <masterLabel>Uniti Distinct Account Export Limit</masterLabel>
-    <type>CustomApexPolicy</type>
+    <flow>PolicyCondition_BddmpxKDiIyPZCdrhgRY</flow>
+    <masterLabel>Block Contact Exports Greater Than 100</masterLabel>
+    <type>CustomConditionBuilderPolicy</type>
 </TransactionSecurityPolicy>

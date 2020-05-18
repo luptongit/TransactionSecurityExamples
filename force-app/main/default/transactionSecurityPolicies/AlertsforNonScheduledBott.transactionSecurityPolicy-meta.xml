@@ -12,9 +12,9 @@
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
     <active>false</active>
-    <developerName>UnitiAlertsforNonSchedule</developerName>
+    <developerName>AlertsforNonScheduledBott</developerName>
     <eventName>ReportEvent</eventName>
-    <flow>PolicyCondition_tqmrwkyIsOuUHLnjzBaB</flow>
-    <masterLabel>Uniti Alerts for Non Scheduled Circuit Exports</masterLabel>
+    <flow>PolicyCondition_EtQUEIQfQGRSgiBHqTKb</flow>
+    <masterLabel>Alerts for Non Scheduled Bottle Exports</masterLabel>
     <type>CustomConditionBuilderPolicy</type>
 </TransactionSecurityPolicy>

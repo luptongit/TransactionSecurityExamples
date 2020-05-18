@@ -11,10 +11,11 @@
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
-    <active>true</active>
-    <apexClass>SecurityRuleAccountExports</apexClass>
-    <developerName>UnitiBlockAccountExportsB</developerName>
+    <active>false</active>
+    <apexClass>SecurityRuleAccountDistinctCount</apexClass>
+    <description>Distinct Account Export Limit</description>
+    <developerName>DistinctAccountExportLimi</developerName>
     <eventName>ReportEvent</eventName>
-    <masterLabel>Uniti Block Account Exports By Profile</masterLabel>
+    <masterLabel>Distinct Account Export Limit</masterLabel>
     <type>CustomApexPolicy</type>
 </TransactionSecurityPolicy>

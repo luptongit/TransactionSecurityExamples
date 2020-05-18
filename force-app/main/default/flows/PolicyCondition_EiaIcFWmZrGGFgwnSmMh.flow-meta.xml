@@ -42,7 +42,7 @@
                 <leftValueReference>myVariable_myEvent.QueriedEntities</leftValueReference>
                 <operator>Contains</operator>
                 <rightValue>
-                    <stringValue>Contact</stringValue>
+                    <stringValue>Account</stringValue>
                 </rightValue>
             </conditions>
             <conditions>
@@ -56,7 +56,7 @@
                 <leftValueReference>myVariable_myEvent.RowsProcessed</leftValueReference>
                 <operator>GreaterThanOrEqualTo</operator>
                 <rightValue>
-                    <numberValue>10.0</numberValue>
+                    <numberValue>5.0</numberValue>
                 </rightValue>
             </conditions>
             <connector>
@@ -65,8 +65,8 @@
             <label xsi:nil="true"/>
         </rules>
     </decisions>
-    <interviewLabel>PolicyCondition_LLYLivaocPtGhaswNuXP</interviewLabel>
-    <label>PolicyCondition_LLYLivaocPtGhaswNuXP</label>
+    <interviewLabel>PolicyCondition_EiaIcFWmZrGGFgwnSmMh</interviewLabel>
+    <label>PolicyCondition_EiaIcFWmZrGGFgwnSmMh</label>
     <processType>TransactionSecurityFlow</processType>
     <startElementReference>myDecision</startElementReference>
     <status>Draft</status>

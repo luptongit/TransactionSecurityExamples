@@ -72,8 +72,8 @@
             <label xsi:nil="true"/>
         </rules>
     </decisions>
-    <interviewLabel>PolicyCondition_tqmrwkyIsOuUHLnjzBaB</interviewLabel>
-    <label>PolicyCondition_tqmrwkyIsOuUHLnjzBaB</label>
+    <interviewLabel>PolicyCondition_EtQUEIQfQGRSgiBHqTKb</interviewLabel>
+    <label>PolicyCondition_EtQUEIQfQGRSgiBHqTKb</label>
     <processType>TransactionSecurityFlow</processType>
     <startElementReference>myDecision</startElementReference>
     <status>Draft</status>
