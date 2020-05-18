@@ -16,6 +16,14 @@
         <apexClass>SecurityRuleAccountExports</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>SecurityRuleTestByDistinctAccount</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>SecurityRuleTestByProfile</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
